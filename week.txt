@@ -4,3 +4,4 @@ monday
 tuesday
 wednesday
 thrusday
+friday
