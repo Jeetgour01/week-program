@@ -5,3 +5,4 @@ tuesday
 wednesday
 thrusday
 friday
+saturday
