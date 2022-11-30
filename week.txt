@@ -3,3 +3,4 @@ sunday
 monday
 tuesday
 wednesday
+thrusday
