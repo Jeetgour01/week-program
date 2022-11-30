@@ -2,3 +2,4 @@ welcome to week program
 sunday
 monday
 tuesday
+wednesday
